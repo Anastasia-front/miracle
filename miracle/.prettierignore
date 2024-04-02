@@ -1,0 +1,27 @@
+README.md
+
+*.css
+*.d.ts
+*.html
+*.yml
+*.png
+*.svg
+*.txt
+*.ico
+*.yaml
+*.ttf
+*ignore
+.gitattributes
+.husky/
+.pnpm-store/
+.editorconfig
+scripts
+yarn.lock
+android/
+ios/
+macos
+.giteditconfig
+Gemfile
+Gemfile.lock
+
+// add other file to ignor if need

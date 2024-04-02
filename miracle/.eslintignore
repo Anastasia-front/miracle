@@ -1,0 +1,12 @@
+README.md
+android/
+ios/
+build/
+.pnpm-store/v3/files/ff/
+node_modules/
+.editorconfig
+yarn.lock
+macos
+.giteditconfig
+Gemfile
+Gemfile.lock
